@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "senseigpt"
+version = "0.1.0"
+description = ""
+authors = ["Michael Lavery <michael.lavery.2017@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+torch = "^2.0.1"
+torchvision = "^0.15.2"
+torchaudio = "^2.0.2"
+mujoco = "^2.3.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
