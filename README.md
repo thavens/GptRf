@@ -1,1 +1,1 @@
-# GptRf
+# RewardFunctionGPT
