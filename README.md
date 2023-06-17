@@ -1,1 +1,1 @@
-# RewardFunctionGPT
+# Sensei GPT
